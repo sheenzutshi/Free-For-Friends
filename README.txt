@@ -1,4 +1,5 @@
 Created by: Anika Kathuria, Olivia Kwon, Juna Kawai-Yue, Sheen Zutshi
+Website in use: https://youtu.be/PVSvc8hYqv4
 
 Our design solution is a website tailored for Columbia University students (as well as students more generally) to discover discounted events in the New York City area and connect with fellow student attendees. Free For Friends’ overall mission is to foster community, with the website not only encouraging event participation through discounted opportunities but also strengthening campus connections by fostering meaningful interactions among students.
 
